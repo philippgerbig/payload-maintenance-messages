@@ -1,0 +1,15 @@
+.maintenance-message {
+  background-color: var(--maintenance-background);
+  color: var(--maintenance-color);
+  padding: var(--base);
+
+  p {
+    margin-bottom: 0;
+  }
+
+  h4 {
+    color: var(--maintenance-headline-color);
+    font-size: var(--theme-text-base);
+    font-weight: 600;
+  }
+}

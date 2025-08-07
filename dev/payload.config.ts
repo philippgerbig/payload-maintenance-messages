@@ -59,9 +59,6 @@ const buildConfigWithMemoryDB = async () => {
     },
     plugins: [
       payloadMaintenanceMessages({
-        collections: {
-          posts: true,
-        },
       }),
     ],
     secret: process.env.PAYLOAD_SECRET || 'test-secret_key',

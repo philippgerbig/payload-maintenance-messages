@@ -1,4 +1,4 @@
-# Payload Plugin Template
+# Payload Maintenance Messages
 
 A template repo to create a [Payload CMS](https://payloadcms.com) plugin.
 
